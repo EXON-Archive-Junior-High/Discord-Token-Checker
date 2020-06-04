@@ -1,0 +1,13 @@
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\bin\Release\netcoreapp3.1\TokenGrabber.exe
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\bin\Release\netcoreapp3.1\TokenGrabber.deps.json
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\bin\Release\netcoreapp3.1\TokenGrabber.runtimeconfig.json
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\bin\Release\netcoreapp3.1\TokenGrabber.runtimeconfig.dev.json
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\bin\Release\netcoreapp3.1\TokenGrabber.dll
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\bin\Release\netcoreapp3.1\TokenGrabber.pdb
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\obj\Release\netcoreapp3.1\TokenGrabber.AssemblyInfoInputs.cache
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\obj\Release\netcoreapp3.1\TokenGrabber.AssemblyInfo.cs
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\obj\Release\netcoreapp3.1\TokenGrabber.csproj.CoreCompileInputs.cache
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\obj\Release\netcoreapp3.1\TokenGrabber.dll
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\obj\Release\netcoreapp3.1\TokenGrabber.pdb
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\obj\Release\netcoreapp3.1\TokenGrabber.genruntimeconfig.cache
+C:\Users\박시혁\Code\DiscordTokenGrabber\TokenGrabber\TokenGrabber\obj\Release\netcoreapp3.1\TokenGrabber.csprojAssemblyReference.cache
