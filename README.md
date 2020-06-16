@@ -1,4 +1,4 @@
-# Discord My Token
+# Discord Token Checker
 자신의 토큰을 쉽게 알 수 있는 프로그램입니다. <br>
 Program.cs 에 모든 코드가 있습니다. <br>
 <a href="https://github.com/1-EXON/Discord-Token-Grabber/blob/master/TokenGrabber/TokenGrabber/Program.cs" target="_blank">소스코드 바로 보기
