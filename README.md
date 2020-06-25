@@ -7,7 +7,7 @@ Program.cs 에 모든 코드가 있습니다. <br>
 <b>※저는 이 프로그램을 자신의 토큰을 쉽게 알 수 있고록 제작한 것 뿐이고 만일 이 코드를 악용할 경우, 책임은 사용자에게 있습니다</b>
 
 ## 사용법
-1. [다운로드](https://github.com/1-EXON/Discord-Token-Checker/archive/v1.0.zip)한 다음 압축을 푼다. <br>
+1. [다운로드](https://github.com/1-EXON/Discord-Token-Checker/releases/download/v1.0/Token.Checker.zip)한 다음 압축을 푼다. <br>
 2. exe 파일을 실행한다.
 3. 자신의 디스코드 토큰이 출력된다.
 
